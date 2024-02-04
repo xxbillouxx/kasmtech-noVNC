@@ -350,5 +350,5 @@ msgstr "Documentație"
 msgid "Drag Viewport"
 msgstr "Trasați fereastra de vizualizare"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC a întâmpinat o eroare:"

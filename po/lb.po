@@ -350,5 +350,5 @@ msgstr "Dokumentatioun"
 msgid "Drag Viewport"
 msgstr "Drag Viewport"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC huet e Feeler begéint:"

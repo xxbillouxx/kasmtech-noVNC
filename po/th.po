@@ -350,5 +350,5 @@ msgstr "เอกสาร"
 msgid "Drag Viewport"
 msgstr "ลากวิวพอร์ต"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC พบข้อผิดพลาด:"

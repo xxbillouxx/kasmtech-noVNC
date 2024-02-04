@@ -350,5 +350,5 @@ msgstr "Iwe iwe"
 msgid "Drag Viewport"
 msgstr "Fa Wiwo"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC pade aṣiṣe kan:"

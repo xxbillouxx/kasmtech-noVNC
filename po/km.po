@@ -350,5 +350,5 @@ msgstr "ឯកសារ"
 msgid "Drag Viewport"
 msgstr "ច្រកទិដ្ឋភាពអូស"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC បានជួបប្រទះបញ្ហាមួយ៖"

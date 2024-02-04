@@ -350,5 +350,5 @@ msgstr "Sgrìobhainn"
 msgid "Drag Viewport"
 msgstr "Slaod am port-seallaidh"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "Thachair KasmVNC ri mearachd:"

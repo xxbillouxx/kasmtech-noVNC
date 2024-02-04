@@ -350,5 +350,5 @@ msgstr "Hujjatlar"
 msgid "Drag Viewport"
 msgstr "Ko'rish oynasini sudrab olib boring"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC xatolikka duch keldi:"

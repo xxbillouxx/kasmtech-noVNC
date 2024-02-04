@@ -350,5 +350,5 @@ msgstr "Dokumentáció"
 msgid "Drag Viewport"
 msgstr "Nézetablak húzása"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "A KasmVNC hibát észlelt:"

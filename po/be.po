@@ -350,5 +350,5 @@ msgstr "Дакументацыя"
 msgid "Drag Viewport"
 msgstr "Перацягнуць акно прагляду"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC выявіў памылку:"

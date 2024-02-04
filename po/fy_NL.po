@@ -350,5 +350,5 @@ msgstr "Dokumintaasje"
 msgid "Drag Viewport"
 msgstr "Sleep Viewport"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC tsjinkaam in flater:"

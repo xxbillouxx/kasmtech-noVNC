@@ -464,5 +464,5 @@ msgstr "ドキュメンテーション"
 msgid "Drag Viewport"
 msgstr "「ビューポートをドラッグ」"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "「KasmVNC でエラーが発生しました:」"

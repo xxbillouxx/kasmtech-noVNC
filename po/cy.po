@@ -350,5 +350,5 @@ msgstr "Dogfennaeth"
 msgid "Drag Viewport"
 msgstr "Llusgwch Viewport"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "Mae KasmVNC wedi dod ar draws gwall:"

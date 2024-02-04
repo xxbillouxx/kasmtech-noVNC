@@ -350,5 +350,5 @@ msgstr "Tài liệu"
 msgid "Drag Viewport"
 msgstr "Kéo khung nhìn"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC gặp lỗi:"

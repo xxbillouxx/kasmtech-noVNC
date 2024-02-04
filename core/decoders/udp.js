@@ -1,5 +1,5 @@
 /*
- * KasmVNC: HTML5 VNC client
+ * HTML5 VNC client
  * Copyright (C) 2020 Kasm Technologies
  * Licensed under MPL 2.0 (see LICENSE.txt)
  *

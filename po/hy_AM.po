@@ -350,5 +350,5 @@ msgstr "Փաստաթղթեր"
 msgid "Drag Viewport"
 msgstr "Քաշել տեսադաշտը"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC-ն սխալ է հանդիպել."

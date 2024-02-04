@@ -350,5 +350,5 @@ msgstr "Dokumentatsioon"
 msgid "Drag Viewport"
 msgstr "Lohistamisvaade"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC-s ilmnes viga:"

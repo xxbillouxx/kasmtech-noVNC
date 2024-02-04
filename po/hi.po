@@ -350,5 +350,5 @@ msgstr "दस्तावेज़ीकरण"
 msgid "Drag Viewport"
 msgstr "व्यूपोर्ट खींचें"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC में एक त्रुटि आई:"

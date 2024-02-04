@@ -350,5 +350,5 @@ msgstr "דועית"
 msgid "Drag Viewport"
 msgstr "טבמ תדוקנ רורג"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC האיגשב לקתנ:"

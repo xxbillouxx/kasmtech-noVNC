@@ -350,5 +350,5 @@ msgstr "ﺩﺎﻨﺳﺍ"
 msgid "Drag Viewport"
 msgstr "ګﯾﺭډ ﺪﯿﻟ ﺪﯿﻟ ﺩ"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ﻮﺷ ﺦﻣ ﻩﺮﺳ ﯥﻨﺗﻭﺮﯧﺗ ﯤﻮﯾ ﺩ:"

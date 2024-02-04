@@ -70,7 +70,7 @@ msgid "Credentials are required"
 msgstr ""
 
 #: ../vnc.html:74
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr ""
 
 #: ../vnc.html:84

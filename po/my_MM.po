@@ -350,5 +350,5 @@ msgstr "စာရွက်စာတမ်း"
 msgid "Drag Viewport"
 msgstr "ရှုထောင့်ကို ဆွဲယူပါ"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC သည် အမှားအယွင်းတစ်ခု ကြုံတွေ့ခဲ့သည်-"

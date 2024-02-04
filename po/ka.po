@@ -350,5 +350,5 @@ msgstr "დოკუმენტაცია"
 msgid "Drag Viewport"
 msgstr "გადაათრიეთ ხედის პორტი"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC შეექმნა შეცდომა:"

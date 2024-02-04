@@ -350,5 +350,5 @@ msgstr "ದಾಖಲೆ"
 msgid "Drag Viewport"
 msgstr "ಡ್ರ್ಯಾಗ್ ವ್ಯೂಪೋರ್ಟ್"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ದೋಷವನ್ನು ಎದುರಿಸಿದೆ:"

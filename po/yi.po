@@ -350,5 +350,5 @@ msgstr "ןאָיטאַטנעמוקאָד"
 msgid "Drag Viewport"
 msgstr "טראָפּויוו ןפּעלש"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC תועט אַ טרעטנאָלפּעג:"

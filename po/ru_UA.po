@@ -467,5 +467,5 @@ msgstr "Документация"
 msgid "Drag Viewport"
 msgstr "Перетаскивание видового экрана"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC обнаружил ошибку:"

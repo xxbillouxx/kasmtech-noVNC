@@ -350,5 +350,5 @@ msgstr "कागजात"
 msgid "Drag Viewport"
 msgstr "ड्र्याग भ्यूपोर्ट"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ले त्रुटिको सामना गर्यो:"

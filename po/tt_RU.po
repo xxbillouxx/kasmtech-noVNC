@@ -350,5 +350,5 @@ msgstr "Документация"
 msgid "Drag Viewport"
 msgstr "Визпортны тарту"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC хата белән очрашты:"

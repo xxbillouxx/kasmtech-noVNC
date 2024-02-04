@@ -461,5 +461,5 @@ msgstr "Belgeler"
 msgid "Drag Viewport"
 msgstr "Görüntü Penceresini Sürükleyin"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC bir hatayla karşılaştı:"

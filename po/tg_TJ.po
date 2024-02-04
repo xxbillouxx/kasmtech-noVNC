@@ -350,5 +350,5 @@ msgstr "Ҳуҷҷатҳо"
 msgid "Drag Viewport"
 msgstr "Кашолакунии Viewport"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ба хатогӣ дучор шуд:"

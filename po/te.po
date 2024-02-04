@@ -350,5 +350,5 @@ msgstr "డాక్యుమెంటేషన్"
 msgid "Drag Viewport"
 msgstr "డ్రాగ్ వ్యూపోర్ట్"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC లోపాన్ని ఎదుర్కొంది:"

@@ -350,5 +350,5 @@ msgstr "Litokomane"
 msgid "Drag Viewport"
 msgstr "Hula Viewport"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC e fumane phoso:"

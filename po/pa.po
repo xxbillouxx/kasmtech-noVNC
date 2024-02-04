@@ -350,5 +350,5 @@ msgstr "ਦਸਤਾਵੇਜ਼"
 msgid "Drag Viewport"
 msgstr "ਡਰੈਗ ਵਿਊਪੋਰਟ"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ਨੇ ਇੱਕ ਗਲਤੀ ਦਾ ਸਾਹਮਣਾ ਕੀਤਾ:"

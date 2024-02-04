@@ -350,5 +350,5 @@ msgstr "Amadokhumenti"
 msgid "Drag Viewport"
 msgstr "Hudula imbobo yokubuka"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "I-KasmVNC ihlangabezane nephutha:"

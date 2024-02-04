@@ -350,5 +350,5 @@ msgstr "Documentació"
 msgid "Drag Viewport"
 msgstr "Arrossegar la finestra gràfica"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ha trobat un error:"

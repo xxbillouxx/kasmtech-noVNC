@@ -350,5 +350,5 @@ msgstr "Dokumentacioni"
 msgid "Drag Viewport"
 msgstr "Zvarrit portin e shikimit"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC hasi në një gabim:"

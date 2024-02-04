@@ -350,5 +350,5 @@ msgstr "Баримт бичиг"
 msgid "Drag Viewport"
 msgstr "Харах цонхыг чирэх"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC алдаа гарлаа:"

@@ -350,5 +350,5 @@ msgstr "Belgekirin"
 msgid "Drag Viewport"
 msgstr "Portê Dîmenê Kaş bikin"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC rastî xeletiyek hat:"

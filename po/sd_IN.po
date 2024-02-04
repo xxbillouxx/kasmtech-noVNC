@@ -350,5 +350,5 @@ msgstr "ﺰﻳﻭﺎﺘﺳﺩ"
 msgid "Drag Viewport"
 msgstr "ٽﺭﻮﭘ ﻮﺌﻳڏ ﻮﻳڏﮀ"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ﻮﻴڪ ﻦﻬﻨﻣ ﻥﺎﺳ ﻲﻄﻠﻏ ڪﻫ:"

@@ -350,5 +350,5 @@ msgstr "Sənədlər"
 msgid "Drag Viewport"
 msgstr "Görünüş sahəsini sürükləyin"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC xəta ilə qarşılaşdı:"

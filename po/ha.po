@@ -350,5 +350,5 @@ msgstr "Takardu"
 msgid "Drag Viewport"
 msgstr "Jawo Viewport"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ya ci karo da kuskure:"

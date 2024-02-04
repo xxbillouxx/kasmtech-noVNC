@@ -461,5 +461,5 @@ msgstr "Dokumentace"
 msgid "Drag Viewport"
 msgstr "Přetáhnout výřez"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC narazil na chybu:"

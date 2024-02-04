@@ -468,5 +468,5 @@ msgstr "Documentación"
 msgid "Drag Viewport"
 msgstr "Arrastrar ventana gráfica"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC encontró un error:"

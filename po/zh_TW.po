@@ -455,5 +455,5 @@ msgstr "文檔"
 msgid "Drag Viewport"
 msgstr "拖動視口"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC 遇到錯誤："

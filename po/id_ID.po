@@ -350,5 +350,5 @@ msgstr "Dokumentasi"
 msgid "Drag Viewport"
 msgstr "Seret Area Pandang"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC mengalami kesalahan:"

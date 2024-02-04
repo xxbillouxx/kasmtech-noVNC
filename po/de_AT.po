@@ -476,5 +476,5 @@ msgstr "Dokumentation"
 msgid "Drag Viewport"
 msgstr "Darstellungsfenster ziehen"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC hat einen Fehler festgestellt:"

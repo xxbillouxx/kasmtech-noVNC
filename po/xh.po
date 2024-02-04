@@ -350,5 +350,5 @@ msgstr "Amaxwebhu"
 msgid "Drag Viewport"
 msgstr "Thatha indawo yokujonga"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "I-KasmVNC ifumene impazamo:"

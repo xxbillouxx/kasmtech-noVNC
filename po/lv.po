@@ -350,5 +350,5 @@ msgstr "Dokumentācija"
 msgid "Drag Viewport"
 msgstr "Velciet skata logu"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC radās kļūda:"

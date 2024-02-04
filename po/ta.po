@@ -350,5 +350,5 @@ msgstr "ஆவணம்"
 msgid "Drag Viewport"
 msgstr "வியூபோர்ட்டை இழுக்கவும்"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ஒரு பிழையை எதிர்கொண்டது:"

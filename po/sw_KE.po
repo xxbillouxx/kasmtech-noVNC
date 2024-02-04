@@ -350,5 +350,5 @@ msgstr "Nyaraka"
 msgid "Drag Viewport"
 msgstr "Buruta Viewport"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ilipata hitilafu:"

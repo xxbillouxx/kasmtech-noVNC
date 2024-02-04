@@ -498,5 +498,5 @@ msgstr "Dokumentacja"
 msgid "Drag Viewport"
 msgstr "Przeciągnij rzutnię"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC napotkał błąd:"

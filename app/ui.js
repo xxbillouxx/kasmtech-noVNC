@@ -39,7 +39,7 @@ import RFB from "../core/rfb.js";
 import { MouseButtonMapper, XVNC_BUTTONS } from "../core/mousebuttonmapper.js";
 import * as WebUtil from "./webutil.js";
 
-const PAGE_TITLE = "KasmVNC";
+const PAGE_TITLE = "Remote Access";
 
 var currentEventCount = -1;
 var idleCounter = 0;

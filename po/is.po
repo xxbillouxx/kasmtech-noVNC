@@ -350,5 +350,5 @@ msgstr "Skjölun"
 msgid "Drag Viewport"
 msgstr "Dragðu útsýnisgátt"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC rakst á villu:"

@@ -290,7 +290,7 @@ const UI = {
 
 
     showStatus(text, statusType, time, kasm = false) {
-        // If inside the full Kasm CDI framework, don't show messages unless explicitly told to
+        // If inside the full Kasm VDI framework, don't show messages unless explicitly told to
         if (WebUtil.isInsideKasmVDI() && !kasm) {
             return;
         }

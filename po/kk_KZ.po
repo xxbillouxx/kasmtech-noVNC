@@ -350,5 +350,5 @@ msgstr "Құжаттама"
 msgid "Drag Viewport"
 msgstr "Көру алаңын сүйреу"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC қатеге тап болды:"

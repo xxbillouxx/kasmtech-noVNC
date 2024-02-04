@@ -350,5 +350,5 @@ msgstr "ሰነድ"
 msgid "Drag Viewport"
 msgstr "መመልከቻ ጎትት"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ስህተት አጋጥሞታል::"

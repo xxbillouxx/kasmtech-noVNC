@@ -350,5 +350,5 @@ msgstr "Documentación"
 msgid "Drag Viewport"
 msgstr "Arrastrar a xanela"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC atopou un erro:"

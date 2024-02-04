@@ -350,5 +350,5 @@ msgstr "പ്രമാണീകരണം"
 msgid "Drag Viewport"
 msgstr "വ്യൂപോർട്ട് വലിച്ചിടുക"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "KasmVNC ഒരു പിശക് നേരിട്ടു:"

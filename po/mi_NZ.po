@@ -350,5 +350,5 @@ msgstr "Tuhinga"
 msgid "Drag Viewport"
 msgstr "Toia Tauranga Tirohanga"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "I hapa a KasmVNC:"

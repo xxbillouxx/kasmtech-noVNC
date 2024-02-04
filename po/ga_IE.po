@@ -350,5 +350,5 @@ msgstr "Doiciméad"
 msgid "Drag Viewport"
 msgstr "Tarraing Viewport"
 
-msgid "KasmVNC encountered an error:"
+msgid "Unexpected error:"
 msgstr "Tharla earráid i KasmVNC:"
